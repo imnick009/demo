@@ -26,3 +26,15 @@ let scores=values.map((n)=>
 console.log(scores);
 
 
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Demo</title>
+ </head>
+ <body>
+   <div>Hello World!</div>
+   <script type="text/javascript" src="class.js"></script>
+    </body>
+</html>
+ 
